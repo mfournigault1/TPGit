@@ -12,6 +12,7 @@
  */
 #include "iostream"
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
@@ -20,9 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    cout << "Bonjour" << endl;
-    cout << "Hello" << endl;
-    cout << "C'est moi Arno" << endl;
+    cout << "Bonjour, fichier Arno" << endl;
     return 0;
 }
 
